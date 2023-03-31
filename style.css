@@ -38,13 +38,7 @@
     font-size: 45px;
     color: white;
 }
-div {
-    text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
-    padding: 15px;
-    background: rgba(255,255,255,0.9);
-}
+
 .headerlinkki {
     color: white;
     text-align: center;
@@ -55,6 +49,11 @@ div {
 }
 #etusivuteksti {
     padding-left: 130px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 15px;
+    background: rgba(255,255,255,0.9);
 }
 #lopputeksti {
     text-align: center;
