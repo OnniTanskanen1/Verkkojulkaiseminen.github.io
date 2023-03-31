@@ -1,0 +1,43 @@
+
+* { 
+    font-family: "Helvetica";
+}
+div.sivutop {
+    float: left;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+div.sivubottom {
+    clear: left;
+}
+
+div.summary {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 10px;
+}
+
+div.linkki {
+    padding-top: 20px;
+}
+
+.otsikko {
+    padding-left: 100px;
+}
+
+#taulukko {
+    padding-top: 40px;
+    padding-right: 15px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.kuva {
+    padding-right: 20px;
+}
+
