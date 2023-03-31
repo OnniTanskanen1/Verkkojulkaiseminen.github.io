@@ -45,39 +45,9 @@ div {
     padding: 15px;
     background: rgba(255,255,255,0.9);
 }
-.greenbookotsikko {
-    text-align: center;
-    font-size: 37px;
-    color: white;
-}
-.greenbookkuva  {
-     display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-.taulukko  {
-  margin-left: auto;
-  margin-right: auto;
-    background-color: rgba(255,255,255,0.7);
-}
-h2, .pgreenbook {
-    color: white;
-    text-align: center;
-    text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
-}
-.greenbooktrailer {
-     display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 .headerlinkki {
     color: white;
     text-align: center;
-}
-.imdblinkki {
-    color: black;
 }
 #oscarpatsas1 {
     float: left;
