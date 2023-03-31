@@ -45,7 +45,7 @@
 }
 #oscarpatsas1 {
     float: left;
-    margin-left: 150px;
+    margin-left: 170px;
     
 }
 #etusivuteksti {
@@ -154,7 +154,7 @@ div.summary {
 }
 
 #greenbookbody {
-    background-color: ;
+    background-color: #FFEAAD;
 }
 
 #taulukkogb {
@@ -164,8 +164,8 @@ div.summary {
     border-collapse: collapse;
     border-style: solid;
     border-width: 2px;
-	border: 3px solid ;
-	background-color: ;
+	border: 3px solid #7AD5DF;
+	background-color: #ACEDF4;
 }
 
 #summarygreenbook {
