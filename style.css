@@ -38,13 +38,7 @@
     font-size: 45px;
     color: white;
 }
-div {
-    text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
-    padding: 15px;
-    background: rgba(255,255,255,0.9);
-}
+
 .headerlinkki {
     color: white;
     text-align: center;
@@ -55,6 +49,11 @@ div {
 }
 #etusivuteksti {
     padding-left: 130px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 15px;
+    background: rgba(255,255,255,0.9);
 }
 #lopputeksti {
     text-align: center;
@@ -110,13 +109,13 @@ div {
 }
 div.sivutop {
     float: left;
-    padding-left: 30px;
-    margin-left: 50px;
-    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-bottom: 20px;
 }
 
 div.sivubottom {
     clear: left;
+    margin-top: 50px;
 }
 
 div.summary {
@@ -136,6 +135,7 @@ div.summary {
 
 .otsikko {
     padding-left: 80px;
+    margin-top: 60px;
 }
 
 #taulukko {
